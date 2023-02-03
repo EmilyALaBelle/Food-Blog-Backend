@@ -1,0 +1,3 @@
+node_modules/
+mongoSecrets.js
+secrets.js
